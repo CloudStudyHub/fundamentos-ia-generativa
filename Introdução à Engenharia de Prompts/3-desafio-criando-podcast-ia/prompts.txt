@@ -1,0 +1,19 @@
+Prompt título poderoso: 
+Crie um nome criativo e um subtítulo para um podcast brasileiro sobre computação em nuvem. 
+O nome deve ser curto, memorável e ter um toque divertido, podendo usar trocadilhos ou expressões populares relacionadas a “nuvem” ou “tecnologia”. 
+O subtítulo deve explicar de forma simples e acessível que o podcast tem o objetivo de descomplicar o mundo da computação em nuvem.
+
+Prompt for the podcast cover “Subindo pra Nuvem”: 
+A modern and vibrant podcast cover featuring the title “Subindo pra Nuvem” and the subtitle “Descomplicando a computação em nuvem”. 
+The background should blend shades of blue and purple, with a large stylized cloud in the center. Surrounding the cloud, include floating technology icons. 
+Place a prominent podcast microphone in front of the cloud to symbolize conversation and learning.
+The style should be minimalistic and tech-inspired, with no human characters. Use soft lighting, clean composition, modern and legible typography, and a balanced layout.
+ 
+Prompt Roteiro:
+Crie o roteiro de abertura para o primeiro episódio de um podcast chamado 'Subindo pra Nuvem'. O episódio deve ter o objetivo de descomplicar a 'computação em nuvem' para leigos e iniciantes, explicando:
+1.	O que é a computação em nuvem em termos simples e com uma analogia fácil (ex: locadora digital).
+2.	Onde ela está presente no nosso dia a dia (exemplos: filmes, fotos, música).
+3.	Por que as empresas a utilizam (benefícios: produtividade, custo, segurança).
+4.	Apresentar as oportunidades de carreira na área (desenvolvedores, analistas, etc.).
+5.	Fazer uma chamada para ação para os próximos episódios (explorar provedores, criar recursos, histórias de carreira).
+O tom deve ser entusiasmado, acessível e informativo, e o texto precisa terminar com um convite para seguir e compartilhar o podcast.
