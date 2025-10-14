@@ -1,0 +1,99 @@
+EBOOK “ENTRE NUVENS E NEURÔNIOS: DECODIFICANDO A IA NA AWS”
+Crie o conteúdo completo e descritivo de um eBook educativo com o título:
+Entre Nuvens e Neurônios: Decodificando a IA na AWS
+Guia completo para conquistar a certificação AWS Certified AI Practitioner (AIF-C01)
+O objetivo é produzir um eBook didático, envolvente e estruturado, com explicações aprofundadas sobre os conceitos principais cobrados na prova AWS Certified AI Practitioner (AIF-C01), além de descrições completas dos serviços AWS relacionados à IA, ML e IA Generativa.
+Use como base conceitual e técnica os documentos oficiais de referência (como o AWS Certified AI Practitioner Exam Guide e os materiais por domínio).
+Os temas devem ser abordados com clareza, contexto prático e profundidade descritiva, tornando o conteúdo acessível tanto para iniciantes quanto para profissionais de TI e computação em nuvem.
+________________________________________
+Estrutura e conteúdo do eBook
+Capa
+Título: Entre Nuvens e Neurônios: Decodificando a IA na AWS
+Subtítulo: Guia completo para conquistar a certificação AWS Certified AI Practitioner (AIF-C01)
+________________________________________
+1. Introdução à Certificação AWS AI Practitioner
+•	O que é a certificação AWS Certified AI Practitioner (AIF-C01)
+•	Perfil do candidato e habilidades esperadas
+•	Estrutura, domínios e pontuação do exame
+•	Benefícios de se certificar em IA e computação em nuvem
+________________________________________
+2. Fundamentos de Inteligência Artificial e Machine Learning (Domínio 1)
+•	Conceitos e terminologias básicas: IA, ML, Deep Learning, Redes Neurais, PLN, Visão Computacional
+•	Tipos de aprendizado: supervisionado, não supervisionado, por reforço
+•	Dados e inferência: rotulados, não rotulados, batch e real time
+•	Casos de uso práticos e quando aplicar (ou não) IA/ML
+•	Serviços AWS para ML: SageMaker, Transcribe, Translate, Comprehend, Lex, Polly
+•	Ciclo de vida de um projeto de ML: coleta, pré-processamento, treinamento, ajuste, implantação e monitoramento
+•	MLOps e automação com SageMaker
+________________________________________
+3. Fundamentos de IA Generativa (Domínio 2)
+•	Conceitos: tokens, embeddings, vetores, LLMs, modelos multimodais e de difusão
+•	Arquitetura Transformer e mecanismos de atenção
+•	Casos de uso: geração de texto, imagens, código, tradução, chatbots, sumários e recomendação
+•	Vantagens e limitações (alucinações, viés, interpretabilidade, custo)
+•	Ciclo de vida de um modelo de base: pré-treinamento, fine-tuning, implantação e feedback
+•	Serviços AWS: Amazon Bedrock, SageMaker JumpStart, PartyRock, Amazon Q
+•	Custos, escalabilidade e conformidade de IA Generativa na AWS
+________________________________________
+4. Aplicações de Modelos de Base (Domínio 3)
+•	Seleção de modelos pré-treinados: critérios (custo, latência, tamanho, multilíngue, personalização)
+•	Parâmetros de inferência: temperatura, max tokens e contexto
+•	Geração aumentada de recuperação (RAG) e bancos de dados vetoriais
+o	Amazon OpenSearch, Aurora, Neptune, DocumentDB, RDS pgvector
+•	Engenharia de prompts: zero-shot, few-shot, cadeia de pensamento, modelos de prompt
+•	Personalização de modelos: fine-tuning, aprendizado por transferência, RLHF
+•	Avaliação de desempenho: métricas BLEU, ROUGE, BERTScore e impacto de negócio
+•	Função dos agentes na automação (Agents for Amazon Bedrock)
+________________________________________
+5. Diretrizes de IA Responsável (Domínio 4)
+•	O que é IA responsável e seus princípios: viés, imparcialidade, inclusão, robustez e veracidade
+•	Ferramentas AWS: Amazon Bedrock Guardrails, SageMaker Clarify, Amazon A2I
+•	Considerações ambientais e de sustentabilidade
+•	Riscos legais: PI, confiança do cliente, alucinações e segurança de dados
+•	Transparência e explicabilidade: Model Cards, LIME, SHAP
+•	Design centrado no ser humano e confiança em sistemas de IA
+________________________________________
+
+6. Segurança, Conformidade e Governança de IA (Domínio 5)
+•	Práticas de segurança em IA: IAM, KMS, Macie, PrivateLink, CloudTrail
+•	Modelo de responsabilidade compartilhada na AWS
+•	Criptografia em repouso e em trânsito
+•	Conformidade regulatória: ISO 27001, SOC, LGPD, AI Act
+•	Governança e rastreabilidade de dados: ciclo de vida, logging, residência de dados
+•	Serviços AWS para conformidade e auditoria: AWS Config, Audit Manager, Artifact, Trusted Advisor
+•	Prevenção de ataques de IA generativa (prompt injection, jailbreaks)
+________________________________________
+7. Serviços da AWS Relevantes ao Exame (Resumo Descritivo)
+Organizar em seções descritivas e detalhadas:
+Machine Learning:
+SageMaker, Bedrock, Comprehend, Lex, Polly, Translate, Rekognition, Textract, Personalize, Kendra, Fraud Detector
+Analytics e Dados:
+AWS Glue, Glue DataBrew, Data Exchange, Lake Formation, Redshift, QuickSight, EMR, OpenSearch
+Infraestrutura e Segurança:
+EC2, Lambda, S3, VPC, CloudFront, CloudWatch, IAM, KMS, Macie
+Governança e Custos:
+AWS Config, Audit Manager, Artifact, Cost Explorer, Budgets, Trusted Advisor, Well-Architected Tool
+________________________________________
+8. Estratégias de Estudo e Preparação
+•	Plano de estudos por domínio
+•	Como praticar com os serviços AWS
+•	Uso do AWS Skill Builder e laboratórios gratuitos
+•	Simulados e revisão conceitual
+•	Dicas finais para o dia da prova
+________________________________________
+9. Conclusão — A Jornada do Profissional da Nuvem Inteligente
+•	Reflexão sobre o impacto da IA na nuvem
+•	A fusão entre inteligência humana e artificial
+•	Caminhos após a certificação: especializações e carreira em IA/Cloud
+________________________________________
+ Estilo e tom
+•	Linguagem clara, descritiva e envolvente
+•	Mistura de tom técnico e narrativo educativo
+•	Explicações com exemplos práticos e analogias
+•	Evitar jargões excessivos, privilegiando clareza e compreensão
+•	Estrutura de eBook fluida, com transições suaves entre capítulos
+________________________________________
+Instrução final
+Gere o texto completo do eBook conforme a estrutura acima.
+Use um tom profissional, didático e inspirador, como um guia de leitura que combina explicação conceitual, storytelling leve e exemplos reais da AWS.
+O resultado deve ser coeso, formatado em capítulos, pronto para diagramação e publicação em formato digital (PDF).
